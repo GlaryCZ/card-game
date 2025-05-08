@@ -1,3 +1,7 @@
+# My goal
+Use of this project is to help me learn OOP in C++.
+In this project I used a template Raylib-Quickstart https://github.com/raylib-extras/raylib-quickstart
+
 # Raylib-Quickstart
 A simple cross platform template for setting up a project with the bleeding edge raylib code.
 Works with C or C++.
