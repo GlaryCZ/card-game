@@ -4,7 +4,6 @@
 #include "Battle.h"
 #include "Inventory.h"
 #include "MainMenu.h"
-#include <vector>
 
 class Game {
 private:
@@ -12,7 +11,6 @@ private:
     Battle battle;
     Inventory inventory;
     MainMenu mainMenu;
-    std::vector<Card> allCardsInInventory;
 public:
     Game();
     void run();
