@@ -4,8 +4,8 @@
 #include <iostream>
 #include "Button.h"
 #include "Background.h"
-#include "Enemy.h"
-#include "Player.h"
+#include "battle/Enemy.h"
+#include "battle/Player.h"
 
 class Battle {
 private:

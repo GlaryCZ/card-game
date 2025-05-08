@@ -1,5 +1,5 @@
 #include "Battle.h"
-#include "Card.h"
+#include "battle/Card.h"
 
 Battle::Battle() {
     backButton.setPos((Vector2){GetScreenWidth()-50, 10});
